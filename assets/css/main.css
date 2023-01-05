@@ -1,0 +1,49 @@
+section{
+  padding: px 0;
+}
+
+
+.hero-bg{
+  background-color: #A1A1A1;
+}
+
+.hero-box-bg{
+  background-color: #B7B7B7;
+}
+
+.hero-text-bg{
+  background-color: #6DC6B9;
+}
+
+.about-btn{
+  color: black;
+  background-color: #FAD6D5;
+  border-radius: 30px;
+  width: 20%;
+  text-align: center;
+}
+
+.text-about-social{
+  padding-top: 10px;
+}
+
+.hero-text-bg-cards{
+  background-color: #6DC6B9;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card-title{
+  display: flex;
+  justify-items: center !important;
+  align-items: center;
+}
+
+.shape-text{
+  font-size: 18px;
+}
+
+footer{
+  padding-top: 300px;
+}
